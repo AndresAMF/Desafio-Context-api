@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: "Maitree", serif;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+  background-color: #42dada;
+}
+
+h1 {
+  margin-bottom: 0;
+}
